@@ -1,0 +1,1 @@
+{"version":3,"file":"task.schema.js","sourceRoot":"","sources":["../../../src/projects/schemas/task.schema.ts"],"names":[],"mappings":";;AAAA,qCAAqC;AACrC,qDAAiD;AAEpC,QAAA,UAAU,GAAG,IAAI,QAAQ,CAAC,MAAM,CAAC;IAC1C,OAAO,EAAE,8BAAa;IACtB,MAAM,EAAE,MAAM;IACd,QAAQ,EAAE,MAAM;IAChB,MAAM,EAAE,MAAM;CAEjB,CAAC,CAAC"}
